@@ -1,0 +1,8 @@
+com\vital\controllers\VitalsController.class
+com\vital\dao\VitalDao$1.class
+com\vital\util\LoginUtil.class
+com\vital\beans\VitalsPOJO.class
+com\vital\controllers\LoginController.class
+com\vital\beans\LoginPOJO.class
+com\vital\dao\VitalDao.class
+com\vital\dao\UserDaoImpl.class
